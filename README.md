@@ -95,7 +95,3 @@ streamlit run app.py
 ## API Documentation
 
 The backend API documentation is available at http://localhost:8000/docs when the application is running.
-
-## License
-
-[MIT License](LICENSE)
